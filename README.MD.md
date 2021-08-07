@@ -1,0 +1,1 @@
+Estou fascinada com o curso, é muito interessante, muito incrível mesmo!! Confesso que estou um pouco assustada com a quantidade de conteúdomas sigo encantanda com esse novo universo pois eu não conhecia nadinha de programação, comecei do zero.
