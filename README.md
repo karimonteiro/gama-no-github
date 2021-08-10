@@ -18,4 +18,4 @@
 
 O que estou achando do curso ?
 
-Está sendo um grande desafio, confesso que fiquei um pouco assustada com a quantidade de  conteúdo, mas também estou encantada com esse novo universo, pois eu não conhecia nadinha de programação, comecei do zero.
+Está sendo um grande desafio, confesso que fiquei um pouco assustada com a quantidade de conteúdo, mas também estou encantada com esse novo universo, pois eu não conhecia nadinha de programação, comecei do zero.
